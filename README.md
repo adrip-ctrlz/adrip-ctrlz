@@ -17,9 +17,12 @@
 
 <br>
 
-- A passionate Self-taught Front-end and Back-end developer
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
+About Me
+
+Hi there! I'm a passionate web developer with a strong love for building dynamic and user-friendly applications. My favorite tool in my development toolkit is Python, thanks to its simplicity, power, and versatility. Whether I'm creating back-end APIs, designing intuitive front-end experiences, or diving into data-driven solutions, I enjoy bringing ideas to life through clean, efficient, and maintainable code.
+
+I have experience working with frameworks like Django and Flask, which allow me to craft robust web applications tailored to meet unique project needs. On the front end, I pair my Python expertise with modern technologies like JavaScript, React, css and HTML
+
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
