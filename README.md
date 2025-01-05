@@ -27,7 +27,7 @@ I have experience working with frameworks like Django and Flask, which allow me 
 
 <br><br>
 
-<summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+<<center>summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary></center>
   </ul>
 </div>
 <!--tech stack icons-->
