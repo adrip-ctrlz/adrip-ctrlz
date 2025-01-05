@@ -11,7 +11,7 @@
 
 
 	
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+**About me**
 
 <picture> <img align="<a href="https://www.flaticon.com/free-icons/about-person" title="about person icons" width = 250px></picture>
 
@@ -27,7 +27,7 @@ I have experience working with frameworks like Django and Flask, which allow me 
 
 <br><br>
 
-<center><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></center>
+<center><h2 style="text-align: center;">Technologies That I Know</h2></center>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,discord,mysql,nextjs,nodejs,py,react,redis,github,mongodb,ts,vscode&perline=14" />
@@ -39,7 +39,7 @@ I have experience working with frameworks like Django and Flask, which allow me 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me</h2></summary>
   </ul>
 </div>
 
